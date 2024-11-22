@@ -1,7 +1,7 @@
 ### I'm Gary Lin :raising_hand:
 
 **Frontend Developer**  
-**Taipei,Taiwan** | 🇹🇼
+**Taiwan** | 🇹🇼
 
 ---
 
