@@ -13,7 +13,7 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 
 📧 Email: garylin0969@gmail.com
 
-📇 LinkedIn: <https://www.linkedin.com/in/gary-lin-95723a247/>
+📇 LinkedIn: <https://www.linkedin.com/in/garylin0969/>
 
 📔 Blog: <https://www.garylin.dev/blog>
 
