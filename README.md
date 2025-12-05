@@ -17,5 +17,5 @@ Any questions, or want to get involved, please get in touch. Thanks for visiting
 
 📔 Blog: <https://www.garylin.dev/blog>
 
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=garylin0969&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garylin0969&layout=compact&theme=radical)
+<!-- ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=garylin0969&show_icons=true&theme=radical) -->
+<!-- ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=garylin0969&layout=compact&theme=radical) -->
