@@ -7,7 +7,7 @@
 
 I'm Gary Lin, a Frontend Developer passionate about JavaScript, TypeScript, React, Next and Tailwind CSS.
 
-I currently work at Anue.
+I currently work at [Anue](https://news.cnyes.com/news/cat/headline "鉅亨網").
 
 Any questions, or want to get involved, please get in touch. Thanks for visiting!
 
